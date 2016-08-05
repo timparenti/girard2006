@@ -3,6 +3,7 @@
 <title>Girard High School Class of 2006</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+<link rel="icon" type="image/png" href="favicon.png" />
 <style>
 body {
   background: #fbf180;
@@ -62,19 +63,38 @@ img { max-width: 100%; }
 </a>
 </div>
 
+
+
 <div id="reunion">
-<h2>10-Year Reunion</h2>
+<h2>Save the Date! &mdash; 10-Year Reunion</h2>
 <p>
 <b>Sunday, September 18, 2016</b><br>
 12:00 &ndash; 4:00pm<br>
 Girard American Legion Park<br>
 Girard, Pennsylvania
 </p>
+<p>
+<i>Formal invitation to follow.</i>
+</p>
 </div>
 
-<p class="facebook">
+
+
+<div>
+<h2>Things you can do now:</h2>
+<ul>
+
+<li>
+<a href="update" target="_blank">Update us with your current contact information.</a>
+</li>
+
+<li class="facebook">
 <a href="https://www.facebook.com/groups/girard2006/" target="_blank"><img src="img/facebook_icon.svg">Join the GHS2006 Facebook group.</a>
-</p>
+</li>
+
+</ul>
+</div>
+
 
 
 <p id="copyright">
