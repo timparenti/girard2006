@@ -66,15 +66,17 @@ img { max-width: 100%; }
 
 
 <div id="reunion">
-<h2>Save the Date! &mdash; 10-Year Reunion</h2>
+<h2>Assistance Needed! &mdash; Planning for a 20-Year Reunion</h2>
 <p>
-<b>Sunday, September 18, 2016</b><br>
-12:00 &ndash; 4:00pm<br>
-Girard American Legion Park<br>
-Girard, Pennsylvania
+<b>TBD 2026</b><br>
+We aim to have our weekend selected by mid-2025.
 </p>
 <p>
-<i>Formal invitation to follow.</i>
+We are currently looking for volunteers to serve in key planning roles.
+See <a href="https://www.facebook.com/groups/girard2006/posts/10160549731348920/" target="_blank">this Facebook post</a>.
+</p>
+<p>
+<i>Last updated August 13, 2024.</i>
 </p>
 </div>
 
@@ -90,6 +92,23 @@ Girard, Pennsylvania
 
 <li class="facebook">
 <a href="https://www.facebook.com/groups/girard2006/" target="_blank"><img src="img/facebook_icon.svg">Join the GHS2006 Facebook group.</a>
+</li>
+
+</ul>
+</div>
+
+
+
+<div>
+<h2>Previously&hellip;</h2>
+<ul>
+
+<li>
+<b>10-Year Reunion</b>
+  <ul>
+    <li>Sunday, September 18, 2016, 12:00 &ndash; 4:00pm</li>
+    <li>Girard American Legion Park, Girard, Pennsylvania</li>
+  </ul>
 </li>
 
 </ul>
