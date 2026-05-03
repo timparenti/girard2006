@@ -69,7 +69,6 @@ img { max-width: 100%; }
 <h2>Assistance Needed! &mdash; Planning for a 20-Year Reunion</h2>
 <p>
 <b>TBD 2026</b><br>
-We aim to have our weekend selected by mid-2025.
 </p>
 <p>
 We are currently looking for volunteers to serve in key planning roles.
